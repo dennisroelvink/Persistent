@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
+
 		Toast.makeText(this, "Hallo5", Toast.LENGTH_LONG).show();
 	}
 
