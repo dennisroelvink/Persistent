@@ -11,10 +11,10 @@ public class MainActivity extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.sprintscreen);
+		setContentView(R.layout.editnote);
 		
 
-		Toast.makeText(this, "Hallo5", Toast.LENGTH_LONG).show();
+		//Toast.makeText(this, "Hallo5", Toast.LENGTH_LONG).show();
 	}
 
 	@Override
